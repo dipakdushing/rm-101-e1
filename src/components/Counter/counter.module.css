@@ -1,3 +1,6 @@
 .counter {
   /* TODO */
+  width: 80px;
+  display: flex;
+  justify-content: space-between;
 }

@@ -1,7 +1,15 @@
 .tasks {
   /* sample */
+  width: 350px;
+  margin: auto;
+  background-color: aqua;
+  padding:5px
 }
 
 .empty {
   /* sample */
+  width: 350px;
+  margin: auto;
+  background-color: aqua;
+  padding:5px
 }
